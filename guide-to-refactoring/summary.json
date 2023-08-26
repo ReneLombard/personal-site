@@ -1,0 +1,9 @@
+{ 
+    "title": "Guide to Refactoring",
+    "subtitle": "A beginner's guide to refactoring",
+    "thumbnail": "./artifacts/refactoring_image.jpg",
+    "summary": "This post introduces Docker, a tool designed to make it easier to create, deploy, and run applications by using containers.",
+    "tags": ["Refactoring", "Spagetti code", "Programmer life"],
+    "creation-date": "2023-08-26",
+    "author": "John Doe"
+}
