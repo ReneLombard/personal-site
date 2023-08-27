@@ -172,7 +172,7 @@ H~2~O
 ### Superscript
 
 X^2^
-```C
+```csharp
 
 function createStyleObject(classNames, style) {
   return classNames.reduce((styleObject, className) => {
