@@ -34,7 +34,7 @@ Refactoring should be an integral part of your development process for several r
 4. **Replace Magic Numbers with Constants**: Instead of hardcoding numbers, replace them with named constants.
 5. **Simplify Conditional Expressions**: Break complex conditions into simpler ones or use lookup tables.
 
-## Refactoring Tools <a name="refactoring-tools"></a>
+### Refactoring Tools <a name="refactoring-tools"></a>
 
 Utilizing tools can help make the refactoring process smoother:
 
