@@ -1,5 +1,5 @@
 { 
-    "type": "Blog",
+    "type": "blog-post",
     "title": "Guide to Refactoring",
     "subTitle": "A beginner's guide to refactoring",
     "thumbnailUrl": "./artifacts/refactoring_image.jpg",
