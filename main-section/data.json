@@ -2,5 +2,6 @@
     "type": "main-section",
     "title": "René Lombard",
     "subTitle": "Software Engineer / Designer",
-    "icon-image": "./artifacts/profile-picture.jpg"
+    "icon-image": "./artifacts/profile-picture.jpg",
+    "tags": ["Refactoring", "Spagetti code", "Slayer enthousiast"]
 }
