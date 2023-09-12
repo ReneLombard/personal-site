@@ -3,5 +3,6 @@
     "title": "René Lombard",
     "subTitle": "A Software Engineer from South Africa 🇿🇦, now living in the Netherlands 🇳🇱, sharing insights and love for tech. Join me on this digital journey! 🚀💻",
     "thumbnailUrl": "./artifacts/profile-picture.jpg",
-    "tags": ["Software Engineer", "Designer", "Software architect", "Test test test", "What is happening"]
+    "tags": ["Software Engineer", "Designer", "Software architect", "Test test test", "What is happening"],
+    "thirdParty" : [{"type": "spotify", "url": "https://open.spotify.com/embed/playlist/3MtdDuGe3dtbJuzOGssJMe?utm_source=generator"}] 
 }
