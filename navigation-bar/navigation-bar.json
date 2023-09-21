@@ -1,0 +1,16 @@
+{
+    "type":"navigation-bar",
+    "title":"Rene Lombard",
+    "links": [{
+        "type": "blog",
+        "friendlyName": "Articles"
+    }, 
+    {
+        "type": "gallery",
+        "friendlyName": "images"
+    },
+    {
+        
+    }
+]
+}
