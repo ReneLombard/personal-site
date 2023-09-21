@@ -1,13 +1,18 @@
 {
     "type":"navigation-bar",
     "title":"Rene Lombard",
-    "links": [{
+    "links": [
+        {
+            "type": "about",
+            "friendlyName": "Background"
+        },
+        {
         "type": "blog",
         "friendlyName": "Articles"
-    }, 
-    {
-        "type": "gallery",
-        "friendlyName": "images"
-    }
+        }, 
+        {
+            "type": "contact",
+            "friendlyName": "Contact"
+        }
 ]
 }
