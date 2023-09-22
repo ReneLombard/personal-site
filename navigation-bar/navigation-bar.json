@@ -3,7 +3,8 @@
     "title":"Rene Lombard",
     "links": [
         {
-            "type": "about",
+            "type": "page",
+            "name": "about",
             "friendlyName": "Background"
         },
         {
